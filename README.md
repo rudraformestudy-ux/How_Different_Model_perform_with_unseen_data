@@ -1,4 +1,4 @@
-# Model perfermance Under Distribution Shift
+# Model performance Under Distribution Shift
 **Dataset:** UCI Credit Card Default | **Models:** 7 | **Experiments:** 3
 
 ---
